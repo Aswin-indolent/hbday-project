@@ -1,0 +1,13 @@
+{
+  "name": "hbd-love-app",
+  "version": "1.0.0",
+  "description": "A romantic birthday application with animated tree and hearts",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'No build step required for static HTML app' && exit 0",
+    "start": "echo 'Open index.html in a web browser'"
+  },
+  "keywords": ["birthday", "love", "animation", "hearts"],
+  "author": "",
+  "license": "MIT"
+}
